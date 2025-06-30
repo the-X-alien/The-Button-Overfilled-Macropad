@@ -23,9 +23,16 @@ The only thing I had trouble with was finding out where to place the OLED on the
 
 ### BOM
 
-Idk what this is so I am going to put the KiCad thing
-https://docs.google.com/spreadsheets/d/10YrJsM2fY9kX1iMAhUJcFAUprBF40cdHoe6Sq5_inwc/edit?usp=sharing
-Everything is free tho
+| Footprint          | Quantity | Supplier and ref       | Price                    |
+|--------------------|----------|-------------------------|--------------------------|
+| Cherry MX Switches | 16       | Hackclub                | Free                     |
+| OLED Screen        | 1        | Hackclub                | Free                     |
+| XIAO-RP2040-DIP    | 1        | Hackclub                | Free                     |
+| Diodes             | 16       | Hackclub                | Free                     |
+| Keycaps            | 16       | Hackclub                | Free                     |
+| Case               | 1        | #Printing-Legion        | Free                     |
+| PCB                | 5        | JLCPCB                  | $15 (with shipping and tax) |
+
 
 ### The Firmware
 
